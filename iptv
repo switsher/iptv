@@ -1,450 +1,301 @@
-#EXTINF:-1,beIN max 1hd
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN max 1hd
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3411
-#EXTINF:-1,beIN max2 hd
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN max2 hd
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3412
-#EXTINF:-1,beIN max 1sd
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN max 1sd
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3413
-#EXTINF:-1,beIN max 2sd
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN max 2sd
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3414
-#EXTINF:-1,beIN SPORTS
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Channels",beIN SPORTS
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/2051
-#EXTINF:-1,beIN SPORTS LOW1 PR
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS LOW1 PR
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/62
-#EXTINF:-1,beIN SPORTS LOW2 PR
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS LOW2 PR
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/63
-#EXTINF:-1,beIN SPORTS LOW3 PR
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS LOW3 PR
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/64
-#EXTINF:-1,beIN SPORTS SD1 PR
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS SD1 PR
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/56
-#EXTINF:-1,beIN SPORTS SD2 PR
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS SD2 PR
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/57
-#EXTINF:-1,beIN SPORTS SD3 PR
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS SD3 PR
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/58
-#EXTINF:-1,beIN Sports 1 PR
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 1 PR
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/459
-#EXTINF:-1,beIN Sports 2 PR
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 2 PR
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/450
-#EXTINF:-1,beIN Sports 3 PR
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 3 PR
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/451
-#EXTINF:-1,beIN SPORTS HD1 PR
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HD1 PR
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/46
-#EXTINF:-1,beIN SPORTS HD2 PR
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HD2 PR
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/47
-#EXTINF:-1,beIN SPORTS HD3 PR
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HD3 PR
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/48
-#EXTINF:-1,beIN SPORTS FullHD1 PR
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS FullHD1 PR
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3221
-#EXTINF:-1,beIN SPORTS FullHD2 PR
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS FullHD2 PR
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3222
-#EXTINF:-1,beIN SPORTS FullHD3 PR
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS FullHD3 PR
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3223
-#EXTINF:-1,beIN SPORTS LOW1
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS LOW1
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/65
-#EXTINF:-1,beIN SPORTS LOW2
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS LOW2
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/66
-#EXTINF:-1,bein sport low3
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",bein sport low3
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/2108
-#EXTINF:-1,bein sport low4
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",bein sport low4
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/2109
-#EXTINF:-1,bein sport low5
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",bein sport low5
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/2110
-#EXTINF:-1,bein sport low6
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",bein sport low6
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/2111
-#EXTINF:-1,bein sport low7
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",bein sport low7
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/2112
-#EXTINF:-1,beIN SPORTS SD1
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS SD1
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/59
-#EXTINF:-1,beIN SPORTS SD2
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS SD2
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/60
-#EXTINF:-1,beIN SPORTS SD3
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS SD3
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/93
-#EXTINF:-1,beIN SPORTS SD4
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS SD4
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/92
-#EXTINF:-1,beIN SPORTS SD5
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS SD5
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/91
-#EXTINF:-1,beIN SPORTS SD6
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS SD6
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/61
-#EXTINF:-1,beIN SPORTS SD7
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS SD7
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1459
-#EXTINF:-1,beIN SPORTS HD1
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",beIN SPORTS HD1
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/49
-#EXTINF:-1,beIN SPORTS HD2
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",beIN SPORTS HD2
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/50
-#EXTINF:-1,beIN SPORTS HD3
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HD3
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/51
-#EXTINF:-1,beIN SPORTS HD4
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="LIGTV4.tr" group-title="Channels",beIN SPORTS HD4
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/52
-#EXTINF:-1,beIN SPORTS HD5
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HD5
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/53
-#EXTINF:-1,beIN SPORTS HD6
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HD6
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/54
-#EXTINF:-1,beIN SPORTS HD7
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HD7
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/55
-#EXTINF:-1,beIN SPORTS HD11
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HD11
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3001
-#EXTINF:-1,beIN SPORTS HD12
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="bein12hd.jsc" group-title="Channels",beIN SPORTS HD12
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3002
-#EXTINF:-1,beIN SPORTS FullHD1
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",beIN SPORTS FullHD1
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3224
-#EXTINF:-1,beIN SPORTS FullHD2
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",beIN SPORTS FullHD2
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3225
-#EXTINF:-1,beIN SPORTS FullHD3
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS FullHD3
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3226
-#EXTINF:-1,beIN SPORTS FullHD4
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="LIGTV4.tr" group-title="Channels",beIN SPORTS FullHD4
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3230
-#EXTINF:-1,beIN SPORTS FullHD5
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS FullHD5
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3227
-#EXTINF:-1,beIN SPORTS FullHD6
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS FullHD6
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3228
-#EXTINF:-1,beIN SPORTS FullHD7
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS FullHD7
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3229
-#EXTINF:-1,beIN Sports 1
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",beIN Sports 1
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/452
-#EXTINF:-1,beIN Sports 2
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",beIN Sports 2
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/453
-#EXTINF:-1,beIN Sports 3
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",beIN Sports 3
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/454
-#EXTINF:-1,beIN Sports 4
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",beIN Sports 4
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/455
-#EXTINF:-1,beIN Sports 5
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",beIN Sports 5
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/456
-#EXTINF:-1,beIN Sports 6
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",beIN Sports 6
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/457
-#EXTINF:-1,beIN Sports 7
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",beIN Sports 7
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/458
-#EXTINF:-1,beIN Sport XTRA 1 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sport XTRA 1 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3409
-#EXTINF:-1,beIN Sport XTRA 2 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sport XTRA 2 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3410
-#EXTINF:-1,BEOUT 1 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEOUT 1 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/2991
-#EXTINF:-1,BEOUT 2 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEOUT 2 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/2992
-#EXTINF:-1,BEOUT 3 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEOUT 3 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/2993
-#EXTINF:-1,BEOUT ACTION
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEOUT ACTION
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/2994
-#EXTINF:-1,BEOUT Arabia
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEOUT Arabia
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/2995
-#EXTINF:-1,BEOUT Cinema
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEOUT Cinema
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/2996
-#EXTINF:-1,BEOUT Masr7 Masr
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEOUT Masr7 Masr
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/2997
-#EXTINF:-1,BEOUT Scare tv
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEOUT Scare tv
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/2998
-#EXTINF:-1,BEOUT ShowTime1
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEOUT ShowTime1
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/2999
-#EXTINF:-1,BEOUT showTime2
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEOUT showTime2
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3000
-#EXTINF:-1,BEOUT 1 FHD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEOUT 1 FHD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3385
-#EXTINF:-1,BEOUT 1 SD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEOUT 1 SD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3394
-#EXTINF:-1,BEOUT 2 SD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEOUT 2 SD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3395
-#EXTINF:-1,Arena Sport 1
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ArenaSport1.hr" group-title="Channels",Arena Sport 1
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1465
-#EXTINF:-1,Arena Sport 2
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ArenaSport2.hr" group-title="Channels",Arena Sport 2
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1466
-#EXTINF:-1,Arena Sport 3
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ArenaSport3.hr" group-title="Channels",Arena Sport 3
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1467
-#EXTINF:-1,Arena Sport 4
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ArenaSport4.rs" group-title="Channels",Arena Sport 4
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1468
-#EXTINF:-1,Arena Sport 5
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ArenaSport5.rs" group-title="Channels",Arena Sport 5
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1469
-#EXTINF:-1,PT: Sport TV
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: Sport TV
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/2165
-#EXTINF:-1,PT: Sport TV 1 
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: Sport TV 1
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/2166
-#EXTINF:-1,PT: Sport TV 2
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: Sport TV 2
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/2167
-#EXTINF:-1,PT: Sport TV 3
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: Sport TV 3
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/2168
-#EXTINF:-1,PT: Sport TV 4
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: Sport TV 4
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/2169
-#EXTINF:-1,PT:  Sport TV 5
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT:  Sport TV 5
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/2170
-#EXTINF:-1,MATCH 1 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",MATCH 1 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/2837
-#EXTINF:-1,TRT Sport HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRT Sport HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/2839
-#EXTINF:-1,BT SPORT 1 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",BT SPORT 1 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/2840
-#EXTINF:-1,SuperSport 01
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport 01
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3060
-#EXTINF:-1,SuperSport 02
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport 02
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3061
-#EXTINF:-1,SuperSport 03
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport 03
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3062
-#EXTINF:-1,SuperSport 04
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport 04
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3064
-#EXTINF:-1,SuperSport 05
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport 05
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3063
-#EXTINF:-1,SuperSport 06
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport 06
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3065
-#EXTINF:-1,SuperSport 07
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport 07
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3066
-#EXTINF:-1,SuperSport 08
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport 08
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3067
-#EXTINF:-1,SuperSport 09
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport 09
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3068
-#EXTINF:-1,SuperSport 10
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport 10
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3069
-#EXTINF:-1,SuperSport 11
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport 11
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3070
-#EXTINF:-1,SuperSport 12
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport 12
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3071
-#EXTINF:-1,ARGENTINA: TNT SPORT
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARGENTINA: TNT SPORT
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3072
-#EXTINF:-1,ARGENTINA: FOX SPORTS PREMIUM
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARGENTINA: FOX SPORTS PREMIUM
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3074
-#EXTINF:-1,POL: CANAL_SPORT
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",POL: CANAL_SPORT
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3159
-#EXTINF:-1,AL: TRING_SPORT_1HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TRING_SPORT_1HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3169
-#EXTINF:-1,AL: TRING_SPORT_2HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TRING_SPORT_2HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3170
-#EXTINF:-1,AL: TRING_SPORT_3HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TRING_SPORT_3HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3171
-#EXTINF:-1,AL: TRING_SPORT_4HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TRING_SPORT_4HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3172
-#EXTINF:-1,AL:SUPER SPORT 1 NEWS
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:SUPER SPORT 1 NEWS
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3173
-#EXTINF:-1,AL:SUPER SPORT 2
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:SUPER SPORT 2
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3174
-#EXTINF:-1,AL:SUPER SPORT 3
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:SUPER SPORT 3
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3175
-#EXTINF:-1,AL:SUPER SPORT 4
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:SUPER SPORT 4
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3176
-#EXTINF:-1,[PT] ELEVEN SPORTS 1 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] ELEVEN SPORTS 1 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3279
-#EXTINF:-1,[PT] ELEVEN SPORTS 2 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] ELEVEN SPORTS 2 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3280
-#EXTINF:-1,[PT] ELEVEN SPORTS 3 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] ELEVEN SPORTS 3 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3281
-#EXTINF:-1,[PT] ELEVEN SPORTS 4 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] ELEVEN SPORTS 4 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3282
-#EXTINF:-1,[PT] ELEVEN SPORTS 5 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] ELEVEN SPORTS 5 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3283
-#EXTINF:-1,FR: TELEFOOT HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TELEFOOT HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3047
-#EXTINF:-1,FR: Telefoot Stadium 1
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Telefoot Stadium 1
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3161
-#EXTINF:-1,FR: Telefoot Stadium 2
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Telefoot Stadium 2
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3162
-#EXTINF:-1,FR: Telefoot Stadium 3
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Telefoot Stadium 3
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3163
-#EXTINF:-1,FR: Telefoot Stadium 4
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Telefoot Stadium 4
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3164
-#EXTINF:-1,FR: Telefoot Stadium 5
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Telefoot Stadium 5
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3165
-#EXTINF:-1,FR: Telefoot Stadium 6
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Telefoot Stadium 6
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3166
-#EXTINF:-1,FR: Telefoot Stadium 7
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Telefoot Stadium 7
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3167
-#EXTINF:-1,FR: Telefoot Stadium 8
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Telefoot Stadium 8
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/3168
-#EXTINF:-1,|FR| RMC SPORT 1 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT 1 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1073
-#EXTINF:-1,|FR| RMC SPORT 2 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT 2 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1074
-#EXTINF:-1,|FR| RMC SPORT 3 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT 3 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1075
-#EXTINF:-1,|FR| RMC SPORT 4 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT 4 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1076
-#EXTINF:-1,|FR| BEIN SPORTS 1 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",|FR| BEIN SPORTS 1 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1077
-#EXTINF:-1,|FR| BEIN SPORTS 2 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",|FR| BEIN SPORTS 2 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1078
-#EXTINF:-1,|FR| BEIN SPORTS 3 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="Channels",|FR| BEIN SPORTS 3 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1079
-#EXTINF:-1,|FR| BEIN MAX 4 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="Channels",|FR| BEIN MAX 4 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1080
-#EXTINF:-1,|FR| BEIN MAX 5 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="Channels",|FR| BEIN MAX 5 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1081
-#EXTINF:-1,|FR| BEIN MAX 7 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="BeInSportMax7.fr" group-title="Channels",|FR| BEIN MAX 7 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1083
-#EXTINF:-1,|FR| BEIN MAX 8 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="BeInSportMax8.fr" group-title="Channels",|FR| BEIN MAX 8 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1084
-#EXTINF:-1,|FR| BEIN MAX 9 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BEIN MAX 9 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1085
-#EXTINF:-1,|FR| BEIN MAX 10 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BEIN MAX 10 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1086
-#EXTINF:-1,|FR| BEIN MAX 6 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="Channels",|FR| BEIN MAX 6 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1082
-#EXTINF:-1,|FR| EXTREME SPORT HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EXTREME SPORT HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1087
-#EXTINF:-1,|FR| EUROSPORT 1
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="Eurosport1.fr" group-title="Channels",|FR| EUROSPORT 1
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1088
-#EXTINF:-1,|FR| EUROSPORT 2
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="Eurosport2.fr" group-title="Channels",|FR| EUROSPORT 2
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1089
-#EXTINF:-1,|FR| FOOT+ 24/24
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="Foot24.fr" group-title="Channels",|FR| FOOT+ 24/24
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1090
-#EXTINF:-1,|FR| L'EQUIPE 21 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| L'EQUIPE 21 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1091
-#EXTINF:-1,|FR| GOLF+ HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="Golf.fr" group-title="Channels",|FR| GOLF+ HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1092
-#EXTINF:-1,|FR| OL TV HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="OLTV.fr" group-title="Channels",|FR| OL TV HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1093
-#EXTINF:-1,|FR| INFOSPORT+ HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="Infosport.fr" group-title="Channels",|FR| INFOSPORT+ HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1094
-#EXTINF:-1,|FR| RMC NEWS SPORT HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC NEWS SPORT HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/1095
-#EXTINF:-1,LIGA TV
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",LIGA TV
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/415
-#EXTINF:-1,LALIGA TV BAR
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="Channels",LALIGA TV BAR
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/416
-#EXTINF:-1,LIGA 123 HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",LIGA 123 HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/417
-#EXTINF:-1,LIGA CAMPEONES HD
-#EXTVLCOPT:http-user-agent=pqzmbcvfhry2i1tw9tty9xodgtsry
+#EXTINF:0 tvg-id="ext" group-title="Channels",LIGA CAMPEONES HD
 http://chouflive.ddns.net:8080/X8GmpIPg6J/DRHeG4bDN9/418

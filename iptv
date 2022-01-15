@@ -1,39 +1,450 @@
-#EXTM3U
-#EXTINF:-1,beIN SPORTS MAX + SD 1
-http://tv1.live:25461/ekAVSOvzjV/star7arab.com/7847
-#EXTINF:-1,beIN SPORTS MAX + SD 2
-http://tv1.live:25461/ekAVSOvzjV/star7arab.com/7848
-#EXTINF:-1,Bein Sport Premium + SD1
-http://tv1.live:25461/ekAVSOvzjV/star7arab.com/7873
-#EXTINF:-1,Bein Sport Premium + SD2
-http://tv1.live:25461/ekAVSOvzjV/star7arab.com/7874
-#EXTINF:-1,Bein Sport Premium + SD3
-http://tv1.live:25461/ekAVSOvzjV/star7arab.com/7875
-#EXTINF:-1,Bein Sport + SD1
-http://tv1.live:25461/ekAVSOvzjV/star7arab.com/7876
-#EXTINF:-1,Bein Sport + SD2
-http://tv1.live:25461/ekAVSOvzjV/star7arab.com/7877
-#EXTINF:-1,Bein Sport + SD3
-http://tv1.live:25461/ekAVSOvzjV/star7arab.com/7878
-#EXTINF:-1,Bein Sport + SD4
-http://tv1.live:25461/ekAVSOvzjV/star7arab.com/7879
-#EXTINF:-1,Bein Sport + SD5
-http://tv1.live:25461/ekAVSOvzjV/star7arab.com/7880
-#EXTINF:-1,Bein Sport + SD6
-http://tv1.live:25461/ekAVSOvzjV/star7arab.com/7881
-#EXTINF:-1,Bein Sport + SD7
-http://tv1.live:25461/ekAVSOvzjV/star7arab.com/7882
-#EXTINF:-1,Bein Sport Xtra 1 SD
-http://tv1.live:25461/ekAVSOvzjV/star7arab.com/7885
-#EXTINF:-1,Bein Sport Xtra 2 SD
-http://tv1.live:25461/ekAVSOvzjV/star7arab.com/7886
-#EXTINF:-1,Bein Sport French SD1
-http://tv1.live:25461/ekAVSOvzjV/star7arab.com/7895
-#EXTINF:-1,Bein Sport French SD2
-http://tv1.live:25461/ekAVSOvzjV/star7arab.com/7896
-#EXTINF:-1,Bein Sport English SD1
-http://tv1.live:25461/ekAVSOvzjV/star7arab.com/7890
-#EXTINF:-1,Bein Sport English SD2
-http://tv1.live:25461/ekAVSOvzjV/star7arab.com/7891
-#EXTINF:-1,Bein Sport English SD3
-http://tv1.live:25461/ekAVSOvzjV/star7arab.com/7892
+#EXTINF:-1,maxgoogle.com max 1hd
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3411
+#EXTINF:-1,maxgoogle.com max2 hd
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3412
+#EXTINF:-1,maxgoogle.com max 1sd
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3413
+#EXTINF:-1,maxgoogle.com max 2sd
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3414
+#EXTINF:-1,maxgoogle.com SPORTS
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/2051
+#EXTINF:-1,maxgoogle.com SPORTS LOW1 PR
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/62
+#EXTINF:-1,maxgoogle.com SPORTS LOW2 PR
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/63
+#EXTINF:-1,maxgoogle.com SPORTS LOW3 PR
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/64
+#EXTINF:-1,maxgoogle.com SPORTS SD1 PR
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/56
+#EXTINF:-1,maxgoogle.com SPORTS SD2 PR
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/57
+#EXTINF:-1,maxgoogle.com SPORTS SD3 PR
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/58
+#EXTINF:-1,maxgoogle.com Sports 1 PR
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/459
+#EXTINF:-1,maxgoogle.com Sports 2 PR
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/450
+#EXTINF:-1,maxgoogle.com Sports 3 PR
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/451
+#EXTINF:-1,maxgoogle.com SPORTS HD1 PR
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/46
+#EXTINF:-1,maxgoogle.com SPORTS HD2 PR
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/47
+#EXTINF:-1,maxgoogle.com SPORTS HD3 PR
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/48
+#EXTINF:-1,maxgoogle.com SPORTS FullHD1 PR
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3221
+#EXTINF:-1,maxgoogle.com SPORTS FullHD2 PR
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3222
+#EXTINF:-1,maxgoogle.com SPORTS FullHD3 PR
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3223
+#EXTINF:-1,maxgoogle.com SPORTS LOW1
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/65
+#EXTINF:-1,maxgoogle.com SPORTS LOW2
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/66
+#EXTINF:-1,maxgoogle.com sport low3
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/2108
+#EXTINF:-1,maxgoogle.com sport low4
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/2109
+#EXTINF:-1,maxgoogle.com sport low5
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/2110
+#EXTINF:-1,maxgoogle.com sport low6
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/2111
+#EXTINF:-1,maxgoogle.com sport low7
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/2112
+#EXTINF:-1,maxgoogle.com SPORTS SD1
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/59
+#EXTINF:-1,maxgoogle.com SPORTS SD2
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/60
+#EXTINF:-1,maxgoogle.com SPORTS SD3
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/93
+#EXTINF:-1,maxgoogle.com SPORTS SD4
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/92
+#EXTINF:-1,maxgoogle.com SPORTS SD5
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/91
+#EXTINF:-1,maxgoogle.com SPORTS SD6
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/61
+#EXTINF:-1,maxgoogle.com SPORTS SD7
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1459
+#EXTINF:-1,maxgoogle.com SPORTS HD1
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/49
+#EXTINF:-1,maxgoogle.com SPORTS HD2
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/50
+#EXTINF:-1,maxgoogle.com SPORTS HD3
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/51
+#EXTINF:-1,maxgoogle.com SPORTS HD4
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/52
+#EXTINF:-1,maxgoogle.com SPORTS HD5
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/53
+#EXTINF:-1,maxgoogle.com SPORTS HD6
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/54
+#EXTINF:-1,maxgoogle.com SPORTS HD7
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/55
+#EXTINF:-1,maxgoogle.com SPORTS HD11
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3001
+#EXTINF:-1,maxgoogle.com SPORTS HD12
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3002
+#EXTINF:-1,maxgoogle.com SPORTS FullHD1
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3224
+#EXTINF:-1,maxgoogle.com SPORTS FullHD2
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3225
+#EXTINF:-1,maxgoogle.com SPORTS FullHD3
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3226
+#EXTINF:-1,maxgoogle.com SPORTS FullHD4
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3230
+#EXTINF:-1,maxgoogle.com SPORTS FullHD5
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3227
+#EXTINF:-1,maxgoogle.com SPORTS FullHD6
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3228
+#EXTINF:-1,maxgoogle.com SPORTS FullHD7
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3229
+#EXTINF:-1,maxgoogle.com Sports 1
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/452
+#EXTINF:-1,maxgoogle.com Sports 2
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/453
+#EXTINF:-1,maxgoogle.com Sports 3
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/454
+#EXTINF:-1,maxgoogle.com Sports 4
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/455
+#EXTINF:-1,maxgoogle.com Sports 5
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/456
+#EXTINF:-1,maxgoogle.com Sports 6
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/457
+#EXTINF:-1,maxgoogle.com Sports 7
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/458
+#EXTINF:-1,maxgoogle.com Sport XTRA 1 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3409
+#EXTINF:-1,maxgoogle.com Sport XTRA 2 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3410
+#EXTINF:-1,BEOUT 1 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/2991
+#EXTINF:-1,BEOUT 2 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/2992
+#EXTINF:-1,BEOUT 3 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/2993
+#EXTINF:-1,BEOUT ACTION
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/2994
+#EXTINF:-1,BEOUT Arabia
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/2995
+#EXTINF:-1,BEOUT Cinema
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/2996
+#EXTINF:-1,BEOUT Masr7 Masr
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/2997
+#EXTINF:-1,BEOUT Scare tv
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/2998
+#EXTINF:-1,BEOUT ShowTime1
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/2999
+#EXTINF:-1,BEOUT showTime2
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3000
+#EXTINF:-1,BEOUT 1 FHD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3385
+#EXTINF:-1,BEOUT 1 SD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3394
+#EXTINF:-1,BEOUT 2 SD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3395
+#EXTINF:-1,Arena Sport 1
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1465
+#EXTINF:-1,Arena Sport 2
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1466
+#EXTINF:-1,Arena Sport 3
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1467
+#EXTINF:-1,Arena Sport 4
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1468
+#EXTINF:-1,Arena Sport 5
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1469
+#EXTINF:-1,PT: Sport TV
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/2165
+#EXTINF:-1,PT: Sport TV 1 
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/2166
+#EXTINF:-1,PT: Sport TV 2
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/2167
+#EXTINF:-1,PT: Sport TV 3
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/2168
+#EXTINF:-1,PT: Sport TV 4
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/2169
+#EXTINF:-1,PT:  Sport TV 5
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/2170
+#EXTINF:-1,MATCH 1 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/2837
+#EXTINF:-1,TRT Sport HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/2839
+#EXTINF:-1,BT SPORT 1 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/2840
+#EXTINF:-1,SuperSport 01
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3060
+#EXTINF:-1,SuperSport 02
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3061
+#EXTINF:-1,SuperSport 03
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3062
+#EXTINF:-1,SuperSport 04
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3064
+#EXTINF:-1,SuperSport 05
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3063
+#EXTINF:-1,SuperSport 06
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3065
+#EXTINF:-1,SuperSport 07
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3066
+#EXTINF:-1,SuperSport 08
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3067
+#EXTINF:-1,SuperSport 09
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3068
+#EXTINF:-1,SuperSport 10
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3069
+#EXTINF:-1,SuperSport 11
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3070
+#EXTINF:-1,SuperSport 12
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3071
+#EXTINF:-1,ARGENTINA: TNT SPORT
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3072
+#EXTINF:-1,ARGENTINA: FOX SPORTS PREMIUM
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3074
+#EXTINF:-1,POL: CANAL_SPORT
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3159
+#EXTINF:-1,AL: TRING_SPORT_1HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3169
+#EXTINF:-1,AL: TRING_SPORT_2HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3170
+#EXTINF:-1,AL: TRING_SPORT_3HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3171
+#EXTINF:-1,AL: TRING_SPORT_4HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3172
+#EXTINF:-1,AL:SUPER SPORT 1 NEWS
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3173
+#EXTINF:-1,AL:SUPER SPORT 2
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3174
+#EXTINF:-1,AL:SUPER SPORT 3
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3175
+#EXTINF:-1,AL:SUPER SPORT 4
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3176
+#EXTINF:-1,[PT] ELEVEN SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3279
+#EXTINF:-1,[PT] ELEVEN SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3280
+#EXTINF:-1,[PT] ELEVEN SPORTS 3 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3281
+#EXTINF:-1,[PT] ELEVEN SPORTS 4 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3282
+#EXTINF:-1,[PT] ELEVEN SPORTS 5 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3283
+#EXTINF:-1,FR: TELEFOOT HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3047
+#EXTINF:-1,FR: Telefoot Stadium 1
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3161
+#EXTINF:-1,FR: Telefoot Stadium 2
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3162
+#EXTINF:-1,FR: Telefoot Stadium 3
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3163
+#EXTINF:-1,FR: Telefoot Stadium 4
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3164
+#EXTINF:-1,FR: Telefoot Stadium 5
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3165
+#EXTINF:-1,FR: Telefoot Stadium 6
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3166
+#EXTINF:-1,FR: Telefoot Stadium 7
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3167
+#EXTINF:-1,FR: Telefoot Stadium 8
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/3168
+#EXTINF:-1,|FR| RMC SPORT 1 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1073
+#EXTINF:-1,|FR| RMC SPORT 2 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1074
+#EXTINF:-1,|FR| RMC SPORT 3 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1075
+#EXTINF:-1,|FR| RMC SPORT 4 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1076
+#EXTINF:-1,|FR| maxgoogle.com SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1077
+#EXTINF:-1,|FR| maxgoogle.com SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1078
+#EXTINF:-1,|FR| maxgoogle.com SPORTS 3 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1079
+#EXTINF:-1,|FR| maxgoogle.com MAX 4 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1080
+#EXTINF:-1,|FR| maxgoogle.com MAX 5 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1081
+#EXTINF:-1,|FR| maxgoogle.com MAX 7 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1083
+#EXTINF:-1,|FR| maxgoogle.com MAX 8 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1084
+#EXTINF:-1,|FR| maxgoogle.com MAX 9 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1085
+#EXTINF:-1,|FR| maxgoogle.com MAX 10 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1086
+#EXTINF:-1,|FR| maxgoogle.com MAX 6 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1082
+#EXTINF:-1,|FR| EXTREME SPORT HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1087
+#EXTINF:-1,|FR| EUROSPORT 1
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1088
+#EXTINF:-1,|FR| EUROSPORT 2
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1089
+#EXTINF:-1,|FR| FOOT+ 24/24
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1090
+#EXTINF:-1,|FR| L'EQUIPE 21 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1091
+#EXTINF:-1,|FR| GOLF+ HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1092
+#EXTINF:-1,|FR| OL TV HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1093
+#EXTINF:-1,|FR| INFOSPORT+ HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1094
+#EXTINF:-1,|FR| RMC NEWS SPORT HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/1095
+#EXTINF:-1,LIGA TV
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/415
+#EXTINF:-1,LALIGA TV BAR
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/416
+#EXTINF:-1,LIGA 123 HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/417
+#EXTINF:-1,LIGA CAMPEONES HD
+#EXTVLCOPT:http-user-agent=za0qp5ymb3crk6g6gmsrjwh
+http://chouflive.ddns.net:8080/nDm6nUxGCC/8bAlIPpigW/418
